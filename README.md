@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankit-prasadx
-- 👀 I’m interested in Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Structures & Algorithms, Data Science, Machine Learning, Web Dev...
 - 📫 How to reach me : +918329268431, ankit.prasadx@gmail.com
 
